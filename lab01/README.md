@@ -1,4 +1,4 @@
-# Lab01
+<h1>Lab01</h1>
 
 | Outline | Value |
 | --- | --- |
@@ -8,11 +8,14 @@
 | Professor | Andrew Forward, aforward@uottawa.ca |
 | TA | Zahra Kakavand, zkaka044@uottawa.ca |
 
-# Deliverables
-*https://github.com/sixela413/seg3103_playground/tree/main/lab01
-*Shared repo above with TA and Professors
-
-##Java 
+<h1>Deliverables</h1>
+<ul>
+  <li>https://github.com/sixela413/seg3103_playground/tree/main/lab01</li>
+  <li>Shared repo above with TA and Professors
+</li>
+ </ul>
+ 
+<h2>Java</h2>
 <p>I am running Java version 1.8.0_291</p>
 <p><img src="/lab01/assets/java_install.jpg" width="350">
 
