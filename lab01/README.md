@@ -1,4 +1,4 @@
-# SEG3103
+# Lab01
 
 | Outline | Value |
 | --- | --- |
@@ -14,6 +14,6 @@
 
 ##Java 
 <p>I am running Java version 1.8.0_291</p>
-<p><img src="/assets/java_install.jpg" width="350">
+<p><img src="/lab01/assets/java_install.jpg" width="350">
 
 
