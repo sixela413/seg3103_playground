@@ -13,6 +13,7 @@
 *Shared repo above with TA and Professors
 
 ##Java 
-I am running Java version 1.8.0_291
-![assets](java_install.jpg)
+<p>I am running Java version 1.8.0_291</p>
+<p><img src="/assets/java_install.jpg" width="350">
+
 
