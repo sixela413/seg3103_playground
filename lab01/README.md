@@ -11,3 +11,8 @@
 # Deliverables
 *https://github.com/sixela413/seg3103_playground/tree/main/lab01
 *Shared repo above with TA and Professors
+
+##Java 
+I am running Java version 1.8.0_291
+![assets](java_install.jpg)
+
