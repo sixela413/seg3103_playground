@@ -10,7 +10,7 @@
 
 <h1>Deliverables</h1>
 <ul>
-  <li>https://github.com/sixela413/seg3103_playground/tree/main/lab01</li>
+  <li>https://github.com/sixela413/seg3103_playground</li>
   <li>Shared repo above with TA and Professors
 </li>
  </ul>
