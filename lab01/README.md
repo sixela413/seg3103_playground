@@ -123,7 +123,7 @@ Randomized with seed 935000
 </p>
 
 <p>Screenshot of output from the terminal:</p>
-<img src="assets/exunit.jpg" width="800">
+<img src="assets/exUnit.jpg" width="800">
 
 
 
