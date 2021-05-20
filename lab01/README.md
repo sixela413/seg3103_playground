@@ -17,7 +17,7 @@
  
 <h2>Java</h2>
 <p>I am running Java version 16.0.1</p>
-![alt text](https://github.com/sixela413/seg3103_playground/edit/main/lab01/assets/javaver.jpg?raw=true)
+<img src="assets/javaver.jpg" width="800">
 
 <p>The first step to run the program was to compile it using:</br>
 <code>javac -encoding UTF-8 --source-path src -d dist src/*.java</code>
@@ -37,7 +37,7 @@ Numerator: exit</pre>
 </p>
 
 <p>A screenshot of the terminal:</p>
-INSERT PIC
+<img src="assets/java.jpg" width="800">
 
 <h2>JUnit</h2>
 <p>I am working with JUnit 5 (via Console standalone 1.7.1)</p>
@@ -78,11 +78,11 @@ Test run finished after 212 ms
 </p>
 
 <p>Screenshot of output from the terminal:</p>
-INSERT PIC
+<img src="assets/junit.jpg" width="800">
 
 <h2>Elixir</h2>
 <p>I am running Elixir 11.4 with Erlang 21<br>
-  INSERT PIC
+  <img src="assets/elixirver.jpg" width="800">
 </p>
 
 <p>To run the Elixir program (in <code>newmath_ex</code>, first I compile it:<br>
@@ -104,6 +104,7 @@ iex(2)> NewmathEx.div(13,4)
 </p>
 
 <p>Screenshot of output from the terminal:</p>
+<img src="assets/ex.jpg" width="800">
 
 <h2>ExUnit</h2>
 <p>ExUnit is built directly into Elixir (and compiled like above with <code>mix compile</code>)</p>
@@ -122,6 +123,7 @@ Randomized with seed 935000
 </p>
 
 <p>Screenshot of output from the terminal:</p>
+<img src="assets/exunit.jpg" width="800">
 
 
 
