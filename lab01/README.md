@@ -53,7 +53,28 @@ INSERT PIC
 
 <p>The output of the tests:<br>
 <pre>
-INSERT CODE
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+←[36m.←[0m
+←[36m+--←[0m ←[36mJUnit Jupiter←[0m ←[32m[OK]←[0m
+←[36m| '--←[0m ←[36mNewmathTest←[0m ←[32m[OK]←[0m
+←[36m|   +--←[0m ←[34mdiv_ok()←[0m ←[32m[OK]←[0m
+←[36m|   '--←[0m ←[34mdiv_by_zero()←[0m ←[32m[OK]←[0m
+←[36m'--←[0m ←[36mJUnit Vintage←[0m ←[32m[OK]←[0m
+
+Test run finished after 212 ms
+[         3 containers found      ]
+[         0 containers skipped    ]
+[         3 containers started    ]
+[         0 containers aborted    ]
+[         3 containers successful ]
+[         0 containers failed     ]
+[         2 tests found           ]
+[         0 tests skipped         ]
+[         2 tests started         ]
+[         0 tests aborted         ]
+[         2 tests successful      ]
+[         0 tests failed          ]
 </pre>
 </p>
 
@@ -74,7 +95,12 @@ INSERT PIC
 </p>
 
 <p>Here is an output of the running program:<br>
-<pre> 
+<pre>Interactive Elixir (1.11.4) - press Ctrl+C to exit (type h() ENTER for help)
+iex(1)> NewmathEx.
+...(1)> MixProject
+NewmathEx.MixProject
+iex(2)> NewmathEx.div(13,4)
+{:ok, 3.25}
 </pre>
 </p>
 
@@ -89,6 +115,10 @@ INSERT PIC
   
 <p>The output of the tests:<br>
  <pre>
+Finished in 0.09 seconds
+1 doctest, 2 tests, 0 failures
+
+Randomized with seed 935000
  </pre>
 </p>
 
