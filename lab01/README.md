@@ -34,8 +34,7 @@ Newmath (type 'exit' to exit program)
 Numerator: 13
 Denominator: 3
 13 / 3 = 4
-Numerator: exit
- </pre>
+Numerator: exit</pre>
 </p>
 
 <p>A screenshot of the terminal:</p>
