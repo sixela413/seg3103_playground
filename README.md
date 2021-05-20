@@ -9,5 +9,5 @@
 | TA | Zahra Kakavand, zkaka044@uottawa.ca |
 
 <ul>
-  <li><a href="https://github.com/sixela413/seg3103_playground/blob/main/lab01/README.md">Lab 1</a></li>
+  <li><a href="https://github.com/sixela413/seg3103_playground/blob/main/lab01/README.md">Lab 01</a></li>
   </ul>
