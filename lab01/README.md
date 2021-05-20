@@ -21,14 +21,16 @@
 INSERT PIC
 
 <p>The first step to run the program was to compile it using:</p>
-<code>javac -encoding UTF-8 --source-path src -d dist src/*.java</code>
+```
+javac -encoding UTF-8 --source-path src -d dist src/*.java
+```
 
-<br>
 <p>The command used to run the program was:</p>
-<code>java -cp ./dist Main</code>
+```
+java -cp ./dist Main
+```
 
-<br>
-<p>Here is an putput of the running program:<p>
+<p>Here is an putput of the running program:</p>
   ```
     Newmath (type 'exit' to exit program)<br>
     Numerator: 13<br>
