@@ -17,8 +17,7 @@
  
 <h2>Java</h2>
 <p>I am running Java version 16.0.1</p>
-<p><img src="/lab01/assets/java_install.jpg" width="350">
-INSERT PIC
+![alt text](https://github.com/sixela413/seg3103_playground/edit/main/lab01/assets/javaver.jpg?raw=true)
 
 <p>The first step to run the program was to compile it using:</br>
 <code>javac -encoding UTF-8 --source-path src -d dist src/*.java</code>
