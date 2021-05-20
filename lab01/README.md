@@ -20,20 +20,22 @@
 <p><img src="/lab01/assets/java_install.jpg" width="350">
 INSERT PIC
 
-<br>
 <p>The first step to run the program was to compile it using:</p>
 <code>javac -encoding UTF-8 --source-path src -d dist src/*.java</code>
+
+<br>
 <p>The command used to run the program was:</p>
 <code>java -cp ./dist Main</code>
 
+<br>
 <p>Here is an putput of the running program:<p>
-  <code>
+  ```
     Newmath (type 'exit' to exit program)<br>
     Numerator: 13<br>
     Denominator: 3<br>
     13 / 3 = 4<br>
     Numerator: exit
-  </code>
+  ```
 
   
 
