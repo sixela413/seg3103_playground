@@ -78,7 +78,7 @@ Test run finished after 212 ms
 </p>
 
 <p>Screenshot of output from the terminal:</p>
-<img src="assets/junit.jpg" width="800">
+<img src="assets/junit.jpg" width="900">
 
 <h2>Elixir</h2>
 <p>I am running Elixir 11.4 with Erlang 21<br>
