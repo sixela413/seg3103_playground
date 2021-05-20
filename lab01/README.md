@@ -16,7 +16,26 @@
  </ul>
  
 <h2>Java</h2>
-<p>I am running Java version 1.8.0_291</p>
+<p>I am running Java version 16.0.1</p>
 <p><img src="/lab01/assets/java_install.jpg" width="350">
+INSERT PIC
+  
+<p>The first step to run the program was to compile it using:</p>
+<code>javac -encoding UTF-8 --source-path src -d dist src/*.java</code>
+
+<p>The command used to run the program was:</p>
+<code>java -cp ./dist Main</code>
+
+<p>Here is an putput of the running program:<p>
+  <code>
+    Newmath (type 'exit' to exit program)
+    Numerator: 10
+    Demoninator: 2
+    10 / 2 = 5
+    Numerator: exit
+  </code>
+
+  
+
 
 
